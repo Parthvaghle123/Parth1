@@ -115,6 +115,13 @@ input[type="search"] {
     }
    
 }
+@media (max-width:1200px){
+    .nav-links{
+        gap:20px !important;
+        margin-right: 20px !important;
+    }
+   
+}
 @media (max-width:1088px){
     .nav-links{
         gap:25px !important;
